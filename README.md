@@ -1,2 +1,2 @@
 # DL
-basics of Dl
+basics of DL
